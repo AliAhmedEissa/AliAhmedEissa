@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AliAhmedEissa
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Android Developmnet 
+- 🌱 I’m currently working as Android Developer
 
 <h2 align="left">Hi 👋! My name is Ali Ahmed and I'm a  Android Developer from Egypt</h2>
 
