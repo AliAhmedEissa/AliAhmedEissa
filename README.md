@@ -2,7 +2,9 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently working as Android Developer
 
-<h2 align="left">Hi 👋! My name is Ali Ahmed and I'm a  Android Developer from Egypt</h2>
+<h2 align="left">Hi 👋! My name is Ali Ahmed and I am an analytical and detail-oriented Android app developer professional with stellar
+communication skills. Adept at bringing all team members together to reach a common
+goal on time and under budget. Conceptualizing app solutions with the latest technology</h2>
 
 ###
 
