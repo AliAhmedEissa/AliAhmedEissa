@@ -44,7 +44,4 @@ goal on time and under budget. Conceptualizing app solutions with the latest tec
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/AliAhmedEissa/AliAhmedEissa/blob/output/snake.svg" alt="Snake animation" />
-
 ###
-Profile Readme Generator
