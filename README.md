@@ -2,9 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently working as Android Developer
 
-<h2 align="left">Hi 👋! My name is Ali Ahmed and I am an analytical and detail-oriented Android app developer professional with stellar
-communication skills. Adept at bringing all team members together to reach a common
-goal on time and under budget. Conceptualizing app solutions with the latest technology</h2>
+<h2 align="left">Hi 👋! My name is Ali Ahmed and I am an Android Engineer with 3+ years of experience in developing high-quality mobile applications using Kotlin and Java. Proficient in Clean Architecture, MVVM, and agile methodologies to create scalable and maintainable solutions. Skilled in optimizing app performance and ensuring reliability through robust coding practices. Passionate about leveraging the latest technologies to drive impactful mobile experiences.</h2>
 
 ###
 
